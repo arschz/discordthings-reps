@@ -48,7 +48,7 @@ bucles automáticos y posibles vulnerabilidades de seguridad. Usando un espacio 
 y `\ u180E` al principio de cada mensaje también evita que su bot
 activando los comandos de otros bots. La API de Discord también te dice si un usuario es un bot
 (Propiedad `bot` en objetos` User` -
-[ver la referencia] (https://discordapp.com/developers/docs/resources/user#user-object)).
+[ver la referencia](https://discordapp.com/developers/docs/resources/user#user-object)).
     3. ** Mantenga las funciones NSFW bloqueadas en los canales NSFW **
     Todos los comandos / funciones de NSFW solo deberían funcionar en (Discord) canales marcados con NSFW.
     4. ** Use mencionar el bot para ayudar a los usuarios. **
