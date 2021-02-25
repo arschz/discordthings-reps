@@ -7,7 +7,7 @@
 6. Comandos que devuelven contenido NSFW en un canal SFW.
 7. Sin manejadores de errores / mensajes (permisos faltantes, argumentos faltantes, argumentos incorrectos, etc.).
 8. Diga comando (o cualquier otro que reenvíe lo que dijo el autor) pudiendo mencionar a todos o roles innombrables (depende de las comprobaciones de permisos).
-9. Los comandos hacen lo que se supone que no deben hacer (por ejemplo: silenciar no silencia, patear no patear, etc. (obviamente cuando al bot no le falta ningún permiso)).
+9. Los comandos no hacen lo que se supone que deben hacer (por ejemplo: silenciar no silencia, kick no kickea, etc. (obviamente cuando al bot no le falta ningún permiso)).
 10. La política de privacidad no es válida.
 
 **Me niego a solucionar cualquiera de los problemas** Si se niega a solucionar los problemas que impedirán la aprobación del bot, rechazaremos su bot.
