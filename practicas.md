@@ -60,5 +60,4 @@ esto es incluyéndolo en presencia de su bot). La alternativa es la puntuación 
 personajes para encontrarlo, lo que será difícil para los bots después de 2 y 3. Además, una mención
 es el prefijo más exclusivo de todos.
 
-Si tiene una idea para agregar o cambiar este documento, haga una
-pull request y podemos discutirlo.
+
